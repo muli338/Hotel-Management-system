@@ -1,0 +1,21 @@
+.custom-bg{
+    background-color: #2ecf2e;
+}
+.custom-bg:hover{ 
+    background-color: #279e8c;
+}
+
+.availability-form{
+    margin-top: -50px;
+    z-index: 2;
+    position: relative;
+}
+.h-line{
+    width: 150px;
+    margin: 0 auto;
+    height: 1.7px;
+}
+#dashboard-menu{
+    position: fixed;
+    height: 100%;
+}
